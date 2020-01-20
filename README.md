@@ -5,7 +5,7 @@ I’ve invited the following to collaborate on this repo:
 - thinhpham2606
 - robert-m-proph
 - mseelingerjr
-- ElenaZelenina
+- ElenaZelenina was here 10:00 pm 1/19/20
 - Kewalthapa
 - KendallCheek was here 9:35 pm 1/19/20
 - SafronH
