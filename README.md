@@ -8,4 +8,4 @@ I’ve invited the following to collaborate on this repo:
 - [Elena Zelenina](https://github.com/ElenaZelenina/) - ElenaZelenina was here 10:00 pm 1/19/20
 - [Kewal Thapax](https://github.com/Kewalthapa/) - Kewalthapa
 - [Kendall Cheek](https://github.com/KendallCheek/) - KendallCheek was here 9:35 pm 1/19/20
-- [Safron Haile](https://github.com/SafronH/) - SafronH
+- [Safron Haile](https://github.com/SafronH/) - SafronH - Safron Haile was here at 9:25p.m on 1/30/2020
